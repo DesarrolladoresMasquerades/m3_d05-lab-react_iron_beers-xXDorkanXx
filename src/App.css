@@ -8,6 +8,19 @@
   justify-content: center;
   align-items: center;
   margin-bottom: 20px;
+  width: 100vw;
+}
+
+section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar{
+  width: 30%;
+  margin: 20px;
 }
 
 .App-logo {
